@@ -1,4 +1,4 @@
-<img align="left" src="https://msakg.com/bl-content/uploads/media/mordecai-coffee.png">
+<img align="left" src="https://msakg.com/bl-content/uploads/media/mordecai-coffee-128.png">
 
 ### Hey!
 
