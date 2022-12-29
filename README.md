@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="left" src="https://msakg.com/bl-content/uploads/media/mordecai-coffee-128.png">
 
-<!--
-**imsakg/imsakg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!
 
-Here are some ideas to get you started:
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![pgp](https://img.shields.io/badge/pgp-0xD860828DB5ED4BAC-313131?style=flat&labelColor=313131&color=313131)](https://github.com/imsakg.gpg)
+
+<br>
+
+Ever since I joined GitHub **2** years ago, I pushed **7579** commits, opened **3** issues, submitted **17** pull requests, received **13** stars across **31** personal projects, and contributed to **13** public repositories.
+
+I'm in love with programming systems so I mostly write **Rust**, **C**, **C++**.
+
+Also, I have projects that I wrote using **Go**, **Python**, **JS**, **Dart**.
+
+I sometimes write blogs and wikis that you can check on my [website](https://msakg.com). Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/msakg/) about **job-related** matters.
+
+Ping me on `@msakg:matrix.org` if you want to chat!
+
+**~**
