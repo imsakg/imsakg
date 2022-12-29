@@ -14,7 +14,7 @@ I'm in love with programming systems so I mostly write **Rust**, **C**, **C++**.
 
 Also, I have projects that I wrote using **Go**, **Python**, **JS**, **Dart**.
 
-I sometimes write blogs and wikis that you can check on my [website](https://msakg.com). Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
+I sometimes write blogs and wikis that you can check on my [website](https://msakg.com). Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/msakg/) about **job-related** matters.
 
 Ping me on `@msakg:matrix.org` if you want to chat!
 
