@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Generate README.md
-        uses: imsakg/profile-readme-stats@master
+        uses: imsakg/profile-readme-stats
         with:
           token: ${{ secrets.USER_TOKEN }}
       - name: Update README.md
