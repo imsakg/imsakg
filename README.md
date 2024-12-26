@@ -8,7 +8,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
-Ever since I joined GitHub **12** years ago (the account is merged with old one's), I pushed **7910** commits, opened **1321** issues, submitted **867** pull requests, received **17305** stars across **45** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **12** years ago (the account is merged with old one's), I pushed **7911** commits, opened **1321** issues, submitted **868** pull requests, received **17305** stars across **45** personal projects, and contributed to **9** public repositories.
 
 I'm in love with programming systems so I mostly write **Rust**, **C**, **C++**.
 
@@ -20,4 +20,4 @@ Ping me on `@msakg:matrix.org` if you want to chat!
 
 **~**
 
-![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msa&langs_count=26&api_domain=waka.home.msakg.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Month%20Stats&layout=compact)
+![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msa&langs_count=26&api_domain=waka.home.msakg.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact)
